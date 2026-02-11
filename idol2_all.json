@@ -1,0 +1,49 @@
+[
+  { "name": "Rose", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/rose.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/kpop/rose.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Jennie", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/jennie.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/kpop/jennie.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Jisoo", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/jisoo.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/kpop/jisoo.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Jungkook", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/jungkook.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/kpop/jungkook.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Taehyung", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/v_bts.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/kpop/v_bts.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "RM", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/rm.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/kpop/rm.mp4", "callUrl": null, "blurUrl": null },
+
+  { "name": "Indian", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/indian.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/hot_girls/indian.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Arabic", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/girl_arabic.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/hot_girls/arabic.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "European", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/european.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/hot_girls/european.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Asian", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/asian.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/hot_girls/asian.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Muslim", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/muslim.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/hot_girls/muslim.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "K Pop", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/k_pop.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/hot_girls/k_pop.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Anime Cosplay", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/anime_cosplay.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/hot_girls/anime_cosplay.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Latin", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/latin.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/hot_girls/latin.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "African", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/african.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/hot_girls/african.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Gamer", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/gamer.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/hot_girls/gamer.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Gym", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/gym.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/hot_girls/gym.mp4", "callUrl": null, "blurUrl": null },
+
+  { "name": "Taylor Swift", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/taylor_swift.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/hollywood/taylorswift.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Cardi B", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/cardi_b.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/hollywood/cardib.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Selena Gomez", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/selena_gomez.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/hollywood/selenagomez.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Beyonce", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/beyonce.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/hollywood/beyonce.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Ed Sheeran", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/ed_sheeran.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/hollywood/edsheeran.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Justin Bieber", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/justin_bieber.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/hollywood/justinbieber.mp4", "callUrl": null, "blurUrl": null },
+
+  { "name": "Ghost", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/ghost.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/horror/ghost.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Annabelle", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/annabelle.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/horror/annabelle.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Chucky", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/chucky.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/horror/chucky.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Creepy", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/creepy.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/horror/creepy.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Michael", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/michael.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/horror/michael.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Skibidi Toilet", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/skibidi_toilet.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/horror/skibiditoilet.mp4", "callUrl": null, "blurUrl": null },
+
+  { "name": "Cristiano Ronaldo", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/ronaldo.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/players/cronaldo.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Messi", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/messi.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/players/messi.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Neymar", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/neymar.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/players/neymar.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Haaland", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/haaland.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/players/haaland.mp4", "callUrl": null, "blurUrl": null },
+
+  { "name": "Spiderman", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/spider_man.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/supperman/spiderman.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Batman", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/batman.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/supperman/batman.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Hulk", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/hulk.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/supperman/hulk.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Iron Man", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/iron_man.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/supperman/ironman.mp4", "callUrl": null, "blurUrl": null },
+
+  { "name": "Elon Musk", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/elon_musk.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/businessman/elonmusk.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Donald Trump", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/trump.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/businessman/dtrump.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Mark Zuckerberg", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/zuckerberg.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/businessman/mzuckerberg.mp4", "callUrl": null, "blurUrl": null },
+  { "name": "Bill Gates", "imageUrl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/images/bill_gates.png", "mainurl": "https://pub-1983dd4b95d1440dada18414668a5950.r2.dev/businessman/billgates.mp4", "callUrl": null, "blurUrl": null }
+]
